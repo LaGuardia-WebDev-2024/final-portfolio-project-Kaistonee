@@ -32,13 +32,17 @@ li a {
 }
 
 li a:hover:not(.active) {
-  background-color: orange;
+  background-color:   #C89B4B
+  ;
 }
 
 .active {
-  background-color: red;
+  background-color: #103783
+;
 }
 
 h1 {
   width: 100%;
+  font-family: sans-serif;
 }
+
